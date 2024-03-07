@@ -1,0 +1,29 @@
+{
+
+    "Inovices": "الفواتير",
+    "hello": "مرحبا",
+    "back to invoice": "العودة للصفحة الرئيسية",
+    "Create Invoice": "انشاء فاتورة",
+    "customer name": "اسم العميل",
+    "invoice number": "الفاتورة رقم",
+    "invoice_date": "تاريخ الفاتورة",
+    "total_due": "الاجمالى",
+    "actions": "العمليات",
+    "All Invoices": "كل الفواتير",
+    "Create New Invoice": "انشاء فاتورة جديدة",
+    "customer email": "ايميل العميل",
+    "customer mobile": "رقم العميل",
+    "company name": "اسم الشركة",
+    "product_name": "اسم المنتج",
+    "unit": "وحدة المنتج",
+    "quantity": "الكمية",
+    "unit_price": "سعر المنتج",
+    "product_subtotal": "اجمالى سعر المنتج",
+    "sub_total": "اجمالى سعر المنتجات",
+    "discount": "خصم للعميل",
+    "vat_value": "5% ضريبة ثابتة",
+    "shipping": "ضريبة الشحن",
+    "Add another product": "اضافة منتج أخر",
+    "invoice edit": "تعديل الفاتورة"
+
+}
